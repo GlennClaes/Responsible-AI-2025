@@ -32,9 +32,6 @@ jobs:
       - name: Build mdBook HTML
         run: mdbook build
 
-      - name: Add CNAME for custom domain
-        run: echo "responsibleaiforafairfuture.com" > ./book/CNAME
-
       - name: Setup GitHub Pages
         id: pages
         uses: actions/configure-pages@v5
