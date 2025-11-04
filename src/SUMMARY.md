@@ -2,32 +2,32 @@
 
 [Foreword](foreword.md)
 
-- Module 1
+- [Module 1](modules/module1/index.md)
   - [Introduction](modules/module1/index.md)
   - [Learning Goals](modules/module1/learning_goals.md)
   - [Subchapter 1](modules/module1/subchapter1.md)
   - [References](modules/module1/references.md)
-- Module 2
+- [Module 2](modules/module2/index.md)
   - [Introduction](modules/module2/index.md)
   - [Learning Goals](modules/module2/learning_goals.md)
   - [Subchapter 2](modules/module2/subchapter2.md)
   - [References](modules/module2/references.md)
-- Module 3
+- [Module 3](modules/module3/index.md)
   - [Introduction](modules/module3/index.md)
   - [Learning Goals](modules/module3/learning_goals.md)
   - [Subchapter 3](modules/module3/subchapter3.md)
   - [References](modules/module3/references.md)
-- Module 4
+- [Module 4](modules/module4/index.md)
   - [Introduction](modules/module4/index.md)
   - [Learning Goals](modules/module4/learning_goals.md)
   - [Subchapter 4](modules/module4/subchapter4.md)
   - [References](modules/module4/references.md)
-- Module 5
+- [Module 5](modules/module5/index.md)
   - [Introduction](modules/module5/index.md)
   - [Learning Goals](modules/module5/learning_goals.md)
   - [Subchapter 5](modules/module5/subchapter5.md)
   - [References](modules/module5/references.md)
-- Module 6
+- [Module 6](modules/module6/index.md)
   - [Introduction](modules/module6/index.md)
   - [Learning Goals](modules/module6/learning_goals.md)
   - [Subchapter 6](modules/module6/subchapter6.md)
