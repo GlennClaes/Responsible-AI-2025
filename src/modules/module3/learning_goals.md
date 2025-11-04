@@ -1,0 +1,10 @@
+## **Module 3: Governance, Organization, and Culture**
+
+**Goal:** Embed Responsible AI principles in the organization, with clear **roles, culture**, and **processes** to ensure accountability.
+
+|**Submodule**|**Focus & Learning Objective**|**Key Concepts & Integration**|
+|---|---|---|
+|**3.1 Conceptual Structures of Governance**|Understand and analyze the theoretical structures for **governance and accountability** of AI.|**AI Review Board**, **Three Lines of Defense**, **AI Impact Assessment (AIIA)**, **Audit trails**, and appeal/feedback mechanisms. **BUC Model integration:** Defines business goals and actors, essential for conducting AIIA and assessing stakeholder impact. Links governance with compliance (EU AI Act) and SDG goals.|
+|**3.2 Multidisciplinary Collaboration**|Understand essential **roles** and the need for a **shared language** for effective communication.|Roles: **Ethicist, Lawyer, Domain Expert, Data Scientist**. Concepts: **Transparency Reports**, user-facing explanations, and feedback loops. **BUC Model integration:** Serves as a shared language, informing all roles about business goals, scope, and system context.|
+|**3.3 Organizational Culture and Business Model Integration**|Learn to anchor RAI principles into the **corporate culture** and **business model**.|**Code of Conduct**, **whistleblowing**, role-specific training. Managing **trade-offs** (Performance vs. Fairness vs. Cost). **BUC Model integration:** Helps identify Value Proposition, Cost Structure (Business Model Canvas), and guides trade-offs in line with business objectives.|
+Module 3 translates the theoretical principles (Module 1) and ethical core (Module 2) into **organizational practice**. It creates the **operational and cultural framework** by defining roles, processes (AIIA), and governance, enabling the organization to make **ethically responsible choices** and ensure compliance.

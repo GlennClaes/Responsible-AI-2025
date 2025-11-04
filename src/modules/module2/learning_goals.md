@@ -1,0 +1,11 @@
+## **Module 2: Fairness, Bias, and Explainability (Ethical Core)**
+
+**Goal:** Learn to **recognize, measure, mitigate, and explain bias**; integrate **ethical decision-making** throughout the AI lifecycle.
+
+| **Submodule**                               | **Focus & Learning Objective**                                                                         | **Key Concepts**                                                                                                                                                                                                |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2.1 Theory of Bias and Fairness**         | Understand the nature and sources of **bias** and master strategies to restore **fairness**.           | **Three types of bias:** Data, Algorithmic, and Use Bias. Four stages of bias analysis. **Mitigation strategies** (Pre-, In-, Post-processing). Link to **SDG 10** (inequality).                                |
+| **2.2 Explainability and XAI**              | Understand the need for **transparency** and the tools to explain model decisions.                     | Distinction between **Interpretability** and **Explainability (XAI)**. Theoretical basis of **LIME** and **SHAP**. Documentation concepts such as **Model Cards** and **Data Sheets**. Risk-based explanations. |
+| **2.3 Ethical Theory and the Human Factor** | Apply classical **ethical models** to AI decision-making and understand the role of human supervision. | Ethical models: **Utilitarianism** vs. **Deontology**. Human roles: **Human-in/over-the-Loop**. The **“Gap Problem”** and _moral dumbfounding_. Balancing **Performance, Fairness, and Societal Impact**.       |
+
+Module 2 forms the **ethical core** of Responsible AI. It goes beyond the principles (Module 1) by focusing on the **practical and theoretical mechanisms** to correct undesirable behavior (bias) and to make complex model decisions (**XAI**) transparent, while providing a framework for inevitable **ethical trade-offs**.
