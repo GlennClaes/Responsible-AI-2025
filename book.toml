@@ -2,3 +2,7 @@
 title = "Responsible AI"
 author = "Glenn Claes"
 language = "en"
+src = "src"
+
+[output.html]
+default-theme = "coal"

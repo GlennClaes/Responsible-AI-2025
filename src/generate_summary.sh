@@ -1,3 +1,9 @@
+#!/bin/bash
+# Generate SUMMARY.md statically for Responsible AI
+
+SUMMARY="SUMMARY.md"
+
+cat > "$SUMMARY" <<EOL
 # Responsible AI
 
 [Foreword](foreword.md)
@@ -33,3 +39,6 @@
   - [Subchapter 6](modules/module6/subchapter6.md)
   - [References](modules/module6/references.md)
 
+EOL
+
+echo "✅ SUMMARY.md generated successfully."
