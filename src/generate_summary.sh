@@ -4,7 +4,7 @@
 SUMMARY="SUMMARY.md"
 
 cat > "$SUMMARY" <<EOL
-# Responsible AI
+# Responsible AI: For a Fair Future
 
 [Foreword](foreword.md)
 
