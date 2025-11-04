@@ -1,1 +1,4 @@
-[book]`ntitle = "Responsible AI"`nauthor = "Glenn Claes"`nlanguage = "en" 
+[book]
+title = "Responsible AI"
+author = "Glenn Claes"
+language = "en"
