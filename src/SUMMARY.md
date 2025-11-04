@@ -27,9 +27,3 @@
   - [Learning Goals](modules/module5/learning_goals.md)
   - [Subchapter 5](modules/module5/subchapter5.md)
   - [References](modules/module5/references.md)
-- [Module 6](modules/module6/index.md)
-  - [Introduction](modules/module6/index.md)
-  - [Learning Goals](modules/module6/learning_goals.md)
-  - [Subchapter 6](modules/module6/subchapter6.md)
-  - [References](modules/module6/references.md)
-
